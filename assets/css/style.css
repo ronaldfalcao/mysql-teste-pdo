@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	margin-top: 10%;
+	font-family: roboto;
+	font-size: 2em;
+}
+
+.icons-copyleft{
+	color: #848484;
+	font-size: 0.35em;
+	margin-top: 20%;
+}
+
+.imagem img{
+	height: 10%;
+	width: 10%;
+	margin-top: 5%;
+}
+
+.exception-erro-conexao{
+	color: #848484;
+	font-size: 0.5em;
+}
